@@ -1,10 +1,10 @@
 ---
-title: FPS Unlock
+title: FPS Unlock 120
 icon: arrow-up-right-dots
 category:
   - Fitur
 tag:
-  - FPS Unlock
+  - FPS Unlock 120
   - Visual
 author: Schvis, Kaede, NatsumeAoii
 order: 9
